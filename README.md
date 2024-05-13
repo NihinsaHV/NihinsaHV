@@ -12,7 +12,7 @@
 
 <br/>
 <br/>
-- 🌱 I’m currently learning **mern stack, python**
+- 🌱 I’m currently learning mern stack, python
 
 - 💬 Ask me about **mern, java, c, c++**
 
