@@ -8,12 +8,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihinsahv&label=Profile%20views&color=0e75b6&style=flat" alt="nihinsahv" /> </p>
 <img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<a align="Right">
 - 🌱 I’m currently learning **Mern stack, python**
 
 - 💬 Ask me about **mern, java, c, c++**
 
 - 📫 How to reach me **iamnihinsa@gmail.com**
-
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/iamnihinsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnihinsa" height="30" width="40" /></a>
