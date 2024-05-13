@@ -1,7 +1,7 @@
 <hr/>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a target="_blank" align="center">
-  <img align="right" style="height: 260px; width: 330px;"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+  <img align="right" style="height: 260px; width: 310px;"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
   </a>
   
   <div style="width: 50%;">
