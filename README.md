@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nihinsa+Dilmani)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Undergraduate+Data+Science+Student+@+Sliit)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihinsahv&label=Profile%20views&color=0e75b6&style=flat" alt="nihinsahv" /> </p>
 <hr/>
 - 🌱 I’m currently learning **Mern stack, python**
 
