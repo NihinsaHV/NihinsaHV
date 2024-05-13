@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihinsa Dilmani</h1>
+er<h1 align="center">Hi 👋, I'm Nihinsa Dilmani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihinsahv&label=Profile%20views&color=0e75b6&style=flat" alt="nihinsahv" /> </p>
 
 - 🌱 I’m currently learning **Mern stack, python**
