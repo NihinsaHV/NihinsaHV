@@ -1,3 +1,4 @@
+<hr/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   
@@ -13,7 +14,7 @@
 - 💬 Ask me about **mern, java, c, c++**
 
 - 📫 How to reach me **iamnihinsa@gmail.com**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/iamnihinsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnihinsa" height="30" width="40" /></a>
