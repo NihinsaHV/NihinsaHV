@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nihinsa Dilmani</h1>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nihinsa+Dilmani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Undergraduate+Data+Science+Student+@+Sliit)](https://git.io/typing-svg)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihinsahv&label=Profile%20views&color=0e75b6&style=flat" alt="nihinsahv" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 - 🌱 I’m currently learning **Mern stack, python**
