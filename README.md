@@ -20,6 +20,11 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="white"/>
+<rect width="256" height="256" rx="60" fill="#1D9BF0"/>
+<path d="" fill="white"/>
+</svg>
 <a href="https://twitter.com/iamnihinsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnihinsa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nihinsa-dilmani-509a012b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihinsa-dilmani-509a012b6/" height="30" width="40" /></a>
 <a href="https://instagram.com/iamnihinsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamnihinsa" height="30" width="40" /></a>
