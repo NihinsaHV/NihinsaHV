@@ -1,13 +1,15 @@
 <hr/>
-<div>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a target="_blank" align="center">
+    <img align="right" style="height: 270px; width: 400px;" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  </a>
   
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nihinsa+Dilmani)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Undergraduate+Data+Science+Student+@+Sliit)](https://git.io/typing-svg)
+  <div style="width: 50%;">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nihinsa+Dilmani">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Undergraduate+Data+Science+Student+@+Sliit">
+  </div>
 </div>
+
 <br/>
 <br/>
 - 🌱 I’m currently learning **Mern stack, python**
