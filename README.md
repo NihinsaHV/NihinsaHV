@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihinsa Dilmani</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihinsahv&label=Profile%20views&color=0e75b6&style=flat" alt="nihinsahv" /> </p>
-
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 - 🌱 I’m currently learning **Mern stack, python**
 
 - 💬 Ask me about **mern, java, c, c++**
