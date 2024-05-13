@@ -7,7 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nihinsa+Dilmani)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Undergraduate+Data+Science+Student+@+Sliit)](https://git.io/typing-svg)
 
-
+<br/>
+<br/>
 - 🌱 I’m currently learning **Mern stack, python**
 
 - 💬 Ask me about **mern, java, c, c++**
